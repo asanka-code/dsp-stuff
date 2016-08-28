@@ -62,9 +62,9 @@ showHistogram(uniformSignal)
 showHistogram(gaussSignal)
 showHistogram(intelSignal)
 
-#showCDF(uniformSignal)
-#showCDF(gaussSignal)
-#showCDF(intelSignal)
+showCDF(uniformSignal)
+showCDF(gaussSignal)
+showCDF(intelSignal)
 
 
 
